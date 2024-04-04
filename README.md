@@ -22,7 +22,7 @@ In addition to the libc functions, this library includes a variety of utility fu
 - A C compiler (gcc or clang)
 - Basic knowledge of C programming and Unix environments
 
-**### Building the Library
+### Building the Library
 
 To build the LIBFT library, follow these steps:
 
